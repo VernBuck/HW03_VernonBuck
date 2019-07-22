@@ -1,0 +1,2 @@
+Juggling simulator! 1 GREEN pixels will bounce around the screen and your job is to make sure that the pixel does not hit the bottom of the screen by using the blue paddle. 
+Your directional controls are the left and right arrows on the keyboard. If the GREEN pixel hits the bottom of the screen, it will turn RED meaning you lose.
